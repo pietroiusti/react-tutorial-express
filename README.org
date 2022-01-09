@@ -1,0 +1,11 @@
+Template created with the express application generator.
+
+Write js files in the src fold and process using babel with
+#+begin_src
+npx babel --watch src --out-dir . --presets react-app/prod
+#+end_src
+
+Start with
+#+begin_src
+npm start
+#+end_src
